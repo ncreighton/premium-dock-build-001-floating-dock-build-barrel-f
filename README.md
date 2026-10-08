@@ -1,0 +1,2 @@
+# premium-dock-build-001-floating-dock-build-barrel-f
+Tired of guessing the right barrel spacing or wondering if your dock will survive the next storm? Stop building blind and start engineering with confidence.  This Notion template turns your dock build into a repeatable, data-driven process. It provides a complete framework for designing, budgeting, and constructing floating docks and barrel floats,
